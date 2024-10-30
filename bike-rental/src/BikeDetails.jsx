@@ -22,7 +22,9 @@ export default function BikeDetails() {
                 <p className="text-md md:text-xl lg:text-2xl text-highlight">{bike.model}</p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet iusto, aut tempore, molestias cum atque quas amet quae reprehenderit porro rem assumenda? Accusamus dolorum nisi eveniet vel voluptatum? Sint, deleniti.</p>
                 <p className="text-xl md:text-3xl lg:text-5xl text-accent">ksh {bike.price_per_hour}<span className="text-lg text-secondary">/hr</span></p>
-                <a className="w-full p-2 text-center transition duration-500 text-primary bg-accent hover:bg-highlight" href="#">RENT</a>
+                    {(bike.availability === true) ? <a className="w-full p-2 text-center transition duration-500 text-primary bg-accent hover:bg-highlight" href="#">RENT</a>:
+                    <a className="w-full p-2 text-center transition duration-500 text-primary bg-highlight" disabled href="#">Already booked</a>
+                }
             </div>
         </div>}
         <div>
