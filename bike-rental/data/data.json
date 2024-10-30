@@ -1,0 +1,164 @@
+{
+    "bikes": [
+        {
+            "id": 1,
+            "brand": "Trek",
+            "model": "FX 3 Disc",
+            "price_per_hour": 10,
+            "availability": true,
+            "image_url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_768,h_576,c_pad/FX3Disc_22_35021_A_Primary"
+        },
+        {
+            "id": 2,
+            "brand": "Cannondale",
+            "model": "Quick 4",
+            "price_per_hour": 12,
+            "availability": true,
+            "image_url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_768,h_576,c_pad/FX3Disc_22_35021_A_Primary"
+        },
+        {
+            "id": 3,
+            "brand": "Specialized",
+            "model": "Sirrus X 2.0",
+            "price_per_hour": 11,
+            "availability": false,
+            "image_url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_768,h_576,c_pad/FX3Disc_22_35021_A_Primary"
+        },
+        {
+            "id": 4,
+            "brand": "Giant",
+            "model": "Escape 3",
+            "price_per_hour": 9,
+            "availability": true,
+            "image_url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_768,h_576,c_pad/FX3Disc_22_35021_A_Primary"
+        },
+        {
+            "id": 5,
+            "brand": "Marin",
+            "model": "Fairfax 2",
+            "price_per_hour": 10,
+            "availability": false,
+            "image_url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_768,h_576,c_pad/FX3Disc_22_35021_A_Primary"
+        },
+        {
+            "id": 6,
+            "brand": "Raleigh",
+            "model": "Cadent 2",
+            "price_per_hour": 8,
+            "availability": true,
+            "image_url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_768,h_576,c_pad/FX3Disc_22_35021_A_Primary"
+        },
+        {
+            "id": 7,
+            "brand": "Schwinn",
+            "model": "Discover",
+            "price_per_hour": 7,
+            "availability": true,
+            "image_url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_768,h_576,c_pad/FX3Disc_22_35021_A_Primary"
+        },
+        {
+            "id": 8,
+            "brand": "Diamondback",
+            "model": "Metric 1",
+            "price_per_hour": 11,
+            "availability": true,
+            "image_url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_768,h_576,c_pad/FX3Disc_22_35021_A_Primary"
+        },
+        {
+            "id": 9,
+            "brand": "GT",
+            "model": "Transeo",
+            "price_per_hour": 9,
+            "availability": false,
+            "image_url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_768,h_576,c_pad/FX3Disc_22_35021_A_Primary"
+        },
+        {
+            "id": 10,
+            "brand": "Jamis",
+            "model": "Allegro A2",
+            "price_per_hour": 10,
+            "availability": true,
+            "image_url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_768,h_576,c_pad/FX3Disc_22_35021_A_Primary"
+        },
+        {
+            "id": 11,
+            "brand": "Electra",
+            "model": "Townie 7D",
+            "price_per_hour": 12,
+            "availability": true,
+            "image_url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_768,h_576,c_pad/FX3Disc_22_35021_A_Primary"
+        },
+        {
+            "id": 12,
+            "brand": "Canyon",
+            "model": "Roadlite 6",
+            "price_per_hour": 15,
+            "availability": false,
+            "image_url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_768,h_576,c_pad/FX3Disc_22_35021_A_Primary"
+        },
+        {
+            "id": 13,
+            "brand": "Fuji",
+            "model": "Absolute 1.9",
+            "price_per_hour": 9,
+            "availability": true,
+            "image_url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_768,h_576,c_pad/FX3Disc_22_35021_A_Primary"
+        },
+        {
+            "id": 14,
+            "brand": "Bianchi",
+            "model": "C-Sport 2",
+            "price_per_hour": 14,
+            "availability": true,
+            "image_url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_768,h_576,c_pad/FX3Disc_22_35021_A_Primary"
+        },
+        {
+            "id": 15,
+            "brand": "Kona",
+            "model": "Dew Plus",
+            "price_per_hour": 13,
+            "availability": false,
+            "image_url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_768,h_576,c_pad/FX3Disc_22_35021_A_Primary"
+        },
+        {
+            "id": 16,
+            "brand": "Santa Cruz",
+            "model": "Stigmata",
+            "price_per_hour": 18,
+            "availability": true,
+            "image_url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_768,h_576,c_pad/FX3Disc_22_35021_A_Primary"
+        },
+        {
+            "id": 17,
+            "brand": "Orbea",
+            "model": "Vector 30",
+            "price_per_hour": 12,
+            "availability": true,
+            "image_url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_768,h_576,c_pad/FX3Disc_22_35021_A_Primary"
+        },
+        {
+            "id": 18,
+            "brand": "Scott",
+            "model": "Metrix 30",
+            "price_per_hour": 14,
+            "availability": false,
+            "image_url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_768,h_576,c_pad/FX3Disc_22_35021_A_Primary"
+        },
+        {
+            "id": 19,
+            "brand": "Norco",
+            "model": "Indie 2",
+            "price_per_hour": 10,
+            "availability": true,
+            "image_url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_768,h_576,c_pad/FX3Disc_22_35021_A_Primary"
+        },
+        {
+            "id": 20,
+            "brand": "Cube",
+            "model": "SL Road Pro",
+            "price_per_hour": 13,
+            "availability": true,
+            "image_url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_768,h_576,c_pad/FX3Disc_22_35021_A_Primary"
+        }
+    ]
+}
