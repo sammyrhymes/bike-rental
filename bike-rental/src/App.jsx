@@ -5,6 +5,7 @@ import BikeDetails from './BikeDetails'
 import NavBar from './components/NavBar'
 import Bikes from './Bikes'
 import About from './About'
+import Footer from './Footer'
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
           <Route path='/bike/:id' element={<BikeDetails />} />
           <Route path='/about' element={<About />} />
         </Routes>
+        <Footer />
        
       </div>
     </div>
